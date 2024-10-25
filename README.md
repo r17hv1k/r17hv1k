@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r17hv1k&label=Profile%20views&color=0e75b6&style=flat" alt="r17hv1k" /> </p>
 
-- 🌱 I’m currently learning **Tailwind, Next.js, NodeJS**
+- 🌱 I’m currently learning **Next.js, NodeJS**
 
 - 📫 How to reach me **rithvikreddy2028@gmail.com**
 
